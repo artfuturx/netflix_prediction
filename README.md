@@ -1,5 +1,12 @@
 # Netflix Benzeri Film Öneri Sistemi
 
+#Proje Ekibi
+
+- İpek Iraz Esin
+- Yağmur Polat
+- Mine Emektar
+- Sevgi Berk
+
 Bu proje, K-means kümeleme algoritması kullanarak film önerileri yapan bir FastAPI uygulamasıdır.
 
 ## Özellikler
