@@ -1,6 +1,6 @@
 # Netflix Benzeri Film Öneri Sistemi
 
-#Proje Ekibi
+# Proje Ekibi
 
 - İpek Iraz Esin
 - Yağmur Polat
